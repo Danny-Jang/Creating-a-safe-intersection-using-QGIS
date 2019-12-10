@@ -1,4 +1,15 @@
-### seocho_kaist_project
-- 공사중 
-- 공사중 2 12월 10일
-- 공사중 3 12월 10일 
+ seocho_kaist_project
+=======================
+
+traffic accident prediction 
+----------------------------
+
+used gradient boosting machine
+- xgboost
+- lightgbm
+- catboost 
+
+used deep learning model 
+- framework : keras 
+- neural network: mlp
+
