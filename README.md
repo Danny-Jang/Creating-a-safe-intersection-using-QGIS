@@ -11,5 +11,5 @@ used gradient boosting machine
 
 used deep learning model 
 - framework : keras 
-- neural network: mlp
+- neural network: multi layer perceptron
 
