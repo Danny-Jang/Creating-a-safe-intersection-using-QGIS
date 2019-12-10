@@ -1,7 +1,7 @@
  seocho_kaist_project
 =======================
 
-traffic accident prediction 
+traffic accident number prediction 
 ----------------------------
 
 used gradient boosting machine
